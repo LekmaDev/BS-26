@@ -2,7 +2,7 @@ VBC Brawl V26 (maksimka hitler)
 
 ANDROID APK - YOUR USING
 
-Server ZIP: https://codeload.github.com/LekmaDev/BS-V26/zip/refs/heads/main
+Server ZIP: https://codeload.github.com/LekmaDev/BS-26/zip/refs/heads/main
 
 ## Requirements: ##
 1. a brain...
